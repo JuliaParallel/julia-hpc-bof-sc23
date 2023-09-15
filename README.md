@@ -1,7 +1,7 @@
 ![plot](./assets/banner.png)
 
 
-# Julia for HPC Birds of a Feather session @ SC2#
+# Julia for HPC Birds of a Feather session @ SC23
 
 This repository contains the brief talks presented during the the "[Julia for
 HPC](https://sc23.supercomputing.org/presentation/?id=bof232&sess=sess366)" Birds of a
