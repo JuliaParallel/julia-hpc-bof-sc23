@@ -37,9 +37,9 @@ community meets monthy on Zoom.
 | Time | Speaker | Title |
 | ---- | ------- | ----- |
 | 12:15 - 12:16 | Johannes Blaschke (NERSC) | Opening |
-| 12:16 - 12:21 | Caira Anderson (Cornell) | My experience with Julia as a novice scientific code developer and HPC user |
-| 12:21 - 12:26 | Pedro Valero Lara (ORNL) | JACC.jl: On-node Performance Portable Programming Model in Julia |
-| 12:26 - 12:31 | Sherry Li (LBNL) | Julia interface for parallel sparse matrix factorization |
+| 12:16 - 12:21 | Caira Anderson (Cornell) | [My experience with Julia as a novice scientific code developer and HPC user](Caira.pdf) |
+| 12:21 - 12:26 | Pedro Valero Lara (ORNL) | [JACC.jl: On-node Performance Portable Programming Model in Julia](Pedro.pdf) |
+| 12:26 - 12:31 | Sherry Li (LBNL) | [Julia interface for parallel sparse matrix factorization](Sherry.pdf) |
 | 12:31 - 12:36 | Anton Smirnov (AMD) | State of AMD GPU programming in Julia |
 
 2. Discussions from 12:36-1:15. Discussions moderated by Katharine Hyatt (AWS), William Godoy (ORNL), and You Wu (ETH)
